@@ -6,7 +6,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital@1&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Inline+Text&family=Lobster&display=swap');
 
 body, html{
     font-family: Muli;
@@ -48,13 +47,13 @@ body, html{
     line-height: 60px;
 }
 .bold{
-    font-family: 'Lobster', cursive;
+    font-family: Muli;
     font-size: larger;
     color: rgb(190, 241, 87);
     font-weight: 700;
 }
 .bold2{
-    font-family: 'Lobster', cursive;
+    font-family: Muli;
     color: rgb(190, 241, 87);
     font-weight: 700;
 }
