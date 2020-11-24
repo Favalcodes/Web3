@@ -609,3 +609,8 @@ hr{
         height: 935vh;
     }
 }
+@media (min-width:381px) and (max-width:410px){
+    .main{
+        height: 790vh;
+    }
+}
