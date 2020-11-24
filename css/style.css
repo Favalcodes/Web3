@@ -354,13 +354,13 @@ hr{
         flex-direction: column-reverse;
     }
     .bold{
-        font-family: 'Lobster', cursive;
+        font-family: Muli;
         font-size: 30px;
         color: rgb(190, 241, 87);
         font-weight: 700;
     }
     .bold2{
-        font-family: 'Lobster', cursive;
+        font-family: Muli;
         color: rgb(190, 241, 87);
         font-weight: 700;
     }
@@ -490,13 +490,13 @@ hr{
         flex-direction: column-reverse;
     }
     .bold{
-        font-family: 'Lobster', cursive;
+        font-family: Muli;
         font-size: 30px;
         color: rgb(190, 241, 87);
         font-weight: 700;
     }
     .bold2{
-        font-family: 'Lobster', cursive;
+        font-family: Muli;
         color: rgb(190, 241, 87);
         font-weight: 700;
     }
