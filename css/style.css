@@ -43,7 +43,7 @@ body, html{
 .header{
     padding: 30px 0;
     height: auto;
-    font-size: 30px;
+    font-size: 20px;
     line-height: 60px;
 }
 .header h2{
@@ -79,12 +79,11 @@ body, html{
 }
 .fa{
     width: 100%;
-    /* margin: 4px 25%; */
-    font-size: 200px;
+    font-size: 100px;
     color: #fff;
 }
 .vis{
-    padding: 30px 0;
+    padding: 10px 0;
 }
 .vision h2{
     color: rgb(190, 241, 87);
@@ -95,11 +94,11 @@ body, html{
 }
 .vision h4{
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     margin-bottom: 20px;
 }
 .vision p{
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
 }
 .timeline{
@@ -204,6 +203,7 @@ main {
 }
 .text{
     text-align: center;
+    font-size: 18px;
 }
 .alumni{
     padding: 60px 0;
