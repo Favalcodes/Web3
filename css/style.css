@@ -14,7 +14,7 @@ body, html{
 }
 .main{
     background: url(../img/cool.jpg);
-    height: 523vh;
+    height: 400vh;
     /* position: fixed; */
     background-attachment: fixed;
     background-position: center;
@@ -340,7 +340,7 @@ hr{
 @media (max-width: 480px){
     .main{
         background: url(../img/cool.jpg);
-        height: 1000vh;
+        height: 857vh;
         background-attachment: fixed;
         background-position: center;
         background-repeat: no-repeat;
@@ -476,7 +476,7 @@ hr{
 @media (min-width: 481px) and (max-width: 780px){
     .main{
         background: url(../img/cool.jpg);
-        height: 700vh;
+        height: 557vh;
         background-attachment: fixed;
         background-position: center;
         background-repeat: no-repeat;
@@ -602,16 +602,16 @@ hr{
 }
 @media (max-width:280px){
     .main{
-        height: 1050vh;
+        height: 907vh;
     }
 }
 @media (min-width:281px) and (max-width:380px){
     .main{
-        height: 935vh;
+        height: 792vh;
     }
 }
 @media (min-width:381px) and (max-width:410px){
     .main{
-        height: 790vh;
+        height: 647vh;
     }
 }
