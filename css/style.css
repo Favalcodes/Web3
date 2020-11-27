@@ -348,14 +348,6 @@ hr{
     height: 50px;
 }
 @media (max-width: 480px){
-    .main{
-        background: url(../img/cool.jpg);
-        height: 857vh;
-        background-attachment: fixed;
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
     .header{
         padding: 30px 0;
         height: auto;
@@ -484,14 +476,6 @@ hr{
     }
 }
 @media (min-width: 481px) and (max-width: 780px){
-    .main{
-        background: url(../img/cool.jpg);
-        height: 557vh;
-        background-attachment: fixed;
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
     .header{
         padding: 30px 0;
         height: auto;
@@ -608,20 +592,5 @@ hr{
     }
     .header .row{
         flex-direction: row;
-    }
-}
-@media (max-width:280px){
-    .main{
-        height: 907vh;
-    }
-}
-@media (min-width:281px) and (max-width:380px){
-    .main{
-        height: 792vh;
-    }
-}
-@media (min-width:381px) and (max-width:410px){
-    .main{
-        height: 647vh;
     }
 }
